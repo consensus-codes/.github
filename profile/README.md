@@ -1,139 +1,151 @@
 <div align="center">
 
-<img src="https://consensus.codes/icon.png" alt="Consensus" width="96" height="96" />
+<img src="../assets/logo.jpg" alt="Consensus" width="120" />
 
-# Consensus
+# CONSENSUS
 
-### Intelligent Learning Platform
+### The intelligent learning platform for builders
 
-**Learn. Build. Reach Consensus.**
-
-[![Website](https://img.shields.io/badge/Website-consensus.codes-E8001F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://consensus.codes)
-[![Courses](https://img.shields.io/badge/Courses-Browse-111111?style=for-the-badge&logo=bookstack&logoColor=white)](https://consensus.codes/courses)
-[![Sign up](https://img.shields.io/badge/Get%20Started-Free-0A7A3E?style=for-the-badge&logo=rocket&logoColor=white)](https://consensus.codes/signup)
-
-<img src="https://consensus.codes/consensus-social-2026.png" alt="Consensus — Intelligent Learning Platform" width="720" />
+**Master real skills. Practice with purpose. Prove what you know.**
 
 <br/>
 
-**Interactive courses · Hands-on labs · Online exams · Professional certificates**
+[![Start Learning](https://img.shields.io/badge/Start%20Learning-consensus.codes-E8001F?style=for-the-badge&labelColor=0d0d0d)](https://consensus.codes)
+[![Browse Courses](https://img.shields.io/badge/Browse%20Courses-ffffff?style=for-the-badge&labelColor=1a1a1a&color=2a2a2a)](https://consensus.codes/courses)
+
+<br/>
+
+<img src="../assets/banner.jpg" alt="Consensus — Intelligent Learning Platform" width="820" />
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-**Consensus** is a modern learning management system built for people who learn by doing.
+### Learning that feels serious — and actually sticks
 
-We focus on practical tech skills — Linux, Git, JavaScript, React, Python, DevOps, System Design, and more — with structured paths, real practice, and credentials you can share.
+Consensus is a modern LMS built for people who want more than passive watching.  
+You learn through structured courses, hands-on practice, focused assessments, and credentials that mean something.
 
-| | |
-| :--- | :--- |
-| **Platform** | [https://consensus.codes](https://consensus.codes) |
-| **Product** | Intelligent LMS for interactive tech education |
-| **Audience** | Students, self-learners, and teams building real skills |
-| **Contact** | [admin@consensus.codes](mailto:admin@consensus.codes) · [manager@consensus.codes](mailto:manager@consensus.codes) |
+</div>
 
----
+<br/>
 
-## What you can do
-
-```text
-  Courses  ──►  Labs  ──►  Exams  ──►  Certificates
-     │            │          │              │
-  structured   hands-on   timed skill     shareable
-  lessons      practice   assessments     credentials
-```
-
-- **Interactive courses** — clear modules, progressive difficulty, self-paced learning  
-- **Hands-on labs** — practice real workflows instead of only watching videos  
-- **Online exams** — timed assessments to validate what you’ve learned  
-- **Certificates** — proof of completion you can verify and share  
-- **Learning paths** — guided routes across related skills  
-- **AI learning assistant** — course-aware help when you get stuck  
+<div align="center">
+<img src="../assets/features.jpg" alt="Courses · Labs · Exams · Certificates" width="720" />
+</div>
 
 ---
 
-## Featured courses
+## Why learners choose Consensus
 
-| Course | Focus |
-| :--- | :--- |
-| **Linux** | Command line, shell, system fundamentals |
-| **Git & GitHub** | Version control, collaboration, workflows |
-| **JavaScript + React** | Modern front-end development |
-| **Python** | Programming fundamentals & practical scripting |
-| **DevOps** | Tooling, delivery, and operational practices |
-| **System Design** | Architecture thinking for scalable systems |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Explore the full catalog → **[consensus.codes/courses](https://consensus.codes/courses)**
+### Structured courses
+Clear paths from fundamentals to advanced topics.  
+No fluff — just focused modules that build real competence.
+
+### Hands-on labs
+Practice what you study in real environments.  
+Turn concepts into muscle memory.
+
+</td>
+<td width="50%" valign="top">
+
+### Skill exams
+Validate progress with timed assessments.  
+Know exactly where you stand.
+
+### Certificates
+Earn credentials you can share with confidence.  
+Completion that looks as sharp as the work behind it.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Platform highlights
+## What you can master
 
 <div align="center">
 
-| Learning | Practice | Proof |
+| 🐧 **Linux** | 🔀 **Git & GitHub** | ⚛️ **JavaScript + React** |
 | :---: | :---: | :---: |
-| Structured courses & paths | Virtual / hands-on labs | Exams & certificates |
-| Progress tracking | Real tools & workflows | Verifiable credentials |
-| Clean, fast learner UI | Self-paced + focused modes | Shareable achievements |
+| Systems & command line | Version control & collaboration | Modern front-end craft |
+
+| 🐍 **Python** | ⚙️ **DevOps** | 🏛️ **System Design** |
+| :---: | :---: | :---: |
+| Programming that ships | Delivery & operations mindset | Architecture at scale |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**…and more tracks designed for real-world tech careers.**
+
+[Explore the full catalog →](https://consensus.codes/courses)
 
 </div>
 
 ---
 
-## Built with
-
-Consensus runs as a production cloud platform:
+## The Consensus experience
 
 ```text
-Frontend     Next.js · React · TypeScript · Tailwind
-API          Cloudflare Workers
-Data         Cloudflare D1 · R2
-Edge         Global CDN · custom domains
-Auth         Secure email OTP & session auth
-AI           Course-aware assistant with usage credits
-Email        Transactional + domain routing (@consensus.codes)
+  LEARN          PRACTICE         PROVE            SHOWCASE
+  ─────          ───────          ─────            ────────
+  Courses   →    Labs        →    Exams      →     Certificates
+  guided         hands-on         measured         shareable
+  lessons        environments     assessments      credentials
 ```
 
----
-
-## Quick links
-
-| Link | Description |
-| :--- | :--- |
-| [Home](https://consensus.codes) | Product homepage |
-| [Courses](https://consensus.codes/courses) | Browse the catalog |
-| [Labs](https://consensus.codes/labs) | Hands-on practice |
-| [Exams](https://consensus.codes/exams) | Skill assessments |
-| [Learning paths](https://consensus.codes/learning-paths) | Guided skill tracks |
-| [Certificates](https://consensus.codes/certificates) | Credentials |
-| [Create account](https://consensus.codes/signup) | Start learning |
-| [Verify certificate](https://consensus.codes/verify-certificate) | Public verification |
+- **Self-paced** — move at the speed that fits your life  
+- **Focused learning** — deep work modes when you need zero distraction  
+- **Learning paths** — multi-course journeys for complete skill tracks  
+- **Progress you can see** — always know what you’ve finished and what’s next  
+- **AI study support** — help that stays grounded in your course material  
 
 ---
 
-## Organization
+## Built for ambition
 
-This GitHub organization hosts public-facing work and documentation related to **Consensus** ([consensus.codes](https://consensus.codes)).
+<div align="center">
 
-| Role | Address |
-| :--- | :--- |
-| Platform admin | `admin@consensus.codes` |
-| Manager | `manager@consensus.codes` |
+| Students | Self-learners | Teams & builders |
+| :---: | :---: | :---: |
+| Clear structure for exams & careers | Flexible, serious skill-building | Practical competency, not slideshows |
+
+</div>
+
+<br/>
+
+Whether you’re starting out or leveling up, Consensus keeps the bar high and the path clear.
 
 ---
 
 <div align="center">
 
-**Consensus** — *Intelligent Learning Platform*
+## Ready when you are
 
-[Website](https://consensus.codes) · [Courses](https://consensus.codes/courses) · [Sign up](https://consensus.codes/signup)
+### [Start free on consensus.codes →](https://consensus.codes/signup)
 
 <br/>
 
-<sub>© Consensus · Learn. Build. Reach Consensus.</sub>
+<img src="../assets/logo.jpg" alt="Consensus" width="56" />
+
+**CONSENSUS**  
+*Intelligent Learning Platform*
+
+[Website](https://consensus.codes) · [Courses](https://consensus.codes/courses) · [Labs](https://consensus.codes/labs) · [Exams](https://consensus.codes/exams)
+
+<br/>
+
+<sub>Learn. Build. Reach Consensus.</sub>
 
 </div>
