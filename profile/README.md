@@ -37,13 +37,13 @@ A modern LMS for builders: structured courses, hands-on labs, focused exams, and
 
 | | |
 | :---: | :---: |
-| <a href="https://consensus.codes/courses"><img src="../assets/courses/linux.png" alt="Linux" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/git-github.png" alt="Git & GitHub" width="380"/></a> |
-| <a href="https://consensus.codes/courses"><img src="../assets/courses/js-react.png" alt="JavaScript + React" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/python.png" alt="Python" width="380"/></a> |
-| <a href="https://consensus.codes/courses"><img src="../assets/courses/devops.png" alt="DevOps" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/system-design.png" alt="System Design" width="380"/></a> |
+| <a href="https://consensus.codes/courses"><img src="../assets/courses/linux.webp" alt="Linux" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/git-and-github.webp" alt="Git and GitHub" width="380"/></a> |
+| <a href="https://consensus.codes/courses"><img src="../assets/courses/javascript-react.webp" alt="JavaScript + React" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/python.webp" alt="Python" width="380"/></a> |
+| <a href="https://consensus.codes/courses"><img src="../assets/courses/devops.png" alt="DevOps" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/system-design.webp" alt="System Design" width="380"/></a> |
 
 <br/>
 
-**And more tracks built for real-world tech careers.**
+**Official red-theme course covers from Consensus.**
 
 [Explore the full catalog →](https://consensus.codes/courses)
 
