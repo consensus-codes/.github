@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="../assets/logo.jpg" alt="Consensus" width="120" />
+<img src="../assets/logo.png" alt="Consensus" width="140" />
 
 # CONSENSUS
 
-### The intelligent learning platform for builders
+### Intelligent Learning Platform
 
 **Master real skills. Practice with purpose. Prove what you know.**
 
 <br/>
 
-[![Start Learning](https://img.shields.io/badge/Start%20Learning-consensus.codes-E8001F?style=for-the-badge&labelColor=0d0d0d)](https://consensus.codes)
-[![Browse Courses](https://img.shields.io/badge/Browse%20Courses-ffffff?style=for-the-badge&labelColor=1a1a1a&color=2a2a2a)](https://consensus.codes/courses)
+[![Start Learning](https://img.shields.io/badge/Start%20Learning-consensus.codes-E8001F?style=for-the-badge&labelColor=0a0a0a)](https://consensus.codes)
+[![Browse Courses](https://img.shields.io/badge/Browse%20Courses-1a1a1a?style=for-the-badge&logoColor=white)](https://consensus.codes/courses)
 
 <br/>
 
-<img src="../assets/banner.jpg" alt="Consensus — Intelligent Learning Platform" width="820" />
+<img src="../assets/banner.png" alt="Consensus — Intelligent Learning Platform" width="860" />
 
 </div>
 
@@ -25,69 +25,25 @@
 
 ### Learning that feels serious — and actually sticks
 
-Consensus is a modern LMS built for people who want more than passive watching.  
-You learn through structured courses, hands-on practice, focused assessments, and credentials that mean something.
+A modern LMS for builders: structured courses, hands-on labs, focused exams, and credentials that matter.
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="../assets/features.jpg" alt="Courses · Labs · Exams · Certificates" width="720" />
 </div>
 
 ---
 
-## Why learners choose Consensus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Structured courses
-Clear paths from fundamentals to advanced topics.  
-No fluff — just focused modules that build real competence.
-
-### Hands-on labs
-Practice what you study in real environments.  
-Turn concepts into muscle memory.
-
-</td>
-<td width="50%" valign="top">
-
-### Skill exams
-Validate progress with timed assessments.  
-Know exactly where you stand.
-
-### Certificates
-Earn credentials you can share with confidence.  
-Completion that looks as sharp as the work behind it.
-
-</td>
-</tr>
-</table>
-
----
-
-## What you can master
+## Featured courses
 
 <div align="center">
 
-| 🐧 **Linux** | 🔀 **Git & GitHub** | ⚛️ **JavaScript + React** |
-| :---: | :---: | :---: |
-| Systems & command line | Version control & collaboration | Modern front-end craft |
-
-| 🐍 **Python** | ⚙️ **DevOps** | 🏛️ **System Design** |
-| :---: | :---: | :---: |
-| Programming that ships | Delivery & operations mindset | Architecture at scale |
-
-</div>
+| | |
+| :---: | :---: |
+| <a href="https://consensus.codes/courses"><img src="../assets/courses/linux.png" alt="Linux" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/git-github.png" alt="Git & GitHub" width="380"/></a> |
+| <a href="https://consensus.codes/courses"><img src="../assets/courses/js-react.png" alt="JavaScript + React" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/python.png" alt="Python" width="380"/></a> |
+| <a href="https://consensus.codes/courses"><img src="../assets/courses/devops.png" alt="DevOps" width="380"/></a> | <a href="https://consensus.codes/courses"><img src="../assets/courses/system-design.png" alt="System Design" width="380"/></a> |
 
 <br/>
 
-<div align="center">
-
-**…and more tracks designed for real-world tech careers.**
+**And more tracks built for real-world tech careers.**
 
 [Explore the full catalog →](https://consensus.codes/courses)
 
@@ -95,21 +51,45 @@ Completion that looks as sharp as the work behind it.
 
 ---
 
-## The Consensus experience
+## The Consensus path
 
 ```text
   LEARN          PRACTICE         PROVE            SHOWCASE
   ─────          ───────          ─────            ────────
   Courses   →    Labs        →    Exams      →     Certificates
-  guided         hands-on         measured         shareable
-  lessons        environments     assessments      credentials
 ```
 
-- **Self-paced** — move at the speed that fits your life  
-- **Focused learning** — deep work modes when you need zero distraction  
-- **Learning paths** — multi-course journeys for complete skill tracks  
-- **Progress you can see** — always know what you’ve finished and what’s next  
-- **AI study support** — help that stays grounded in your course material  
+| Courses | Labs | Exams | Certificates |
+| :---: | :---: | :---: | :---: |
+| Structured lessons | Hands-on practice | Skill validation | Shareable proof |
+
+- **Self-paced** — learn on your schedule  
+- **Focused modes** — deep work without noise  
+- **Learning paths** — multi-course journeys  
+- **Clear progress** — always know what’s next  
+
+---
+
+## Skills you'll build
+
+<div align="center">
+
+<img src="../assets/svgs/linux.svg" alt="Linux" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/git.svg" alt="Git" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/Github-Dark.svg" alt="GitHub" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/js.svg" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/react.svg" alt="React" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/ts.svg" alt="TypeScript" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/python.svg" alt="Python" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/nodejs.svg" alt="Node.js" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/docker.svg" alt="Docker" width="48" height="48"/>&nbsp;&nbsp;
+<img src="../assets/svgs/aws.svg" alt="AWS" width="48" height="48"/>
+
+<br/><br/>
+
+**Linux · Git · JavaScript · React · Python · DevOps · System Design**
+
+</div>
 
 ---
 
@@ -117,15 +97,11 @@ Completion that looks as sharp as the work behind it.
 
 <div align="center">
 
-| Students | Self-learners | Teams & builders |
+| Students | Self-learners | Builders |
 | :---: | :---: | :---: |
-| Clear structure for exams & careers | Flexible, serious skill-building | Practical competency, not slideshows |
+| Structure that compounds | Flexible, serious skill growth | Practice that transfers to real work |
 
 </div>
-
-<br/>
-
-Whether you’re starting out or leveling up, Consensus keeps the bar high and the path clear.
 
 ---
 
@@ -133,11 +109,11 @@ Whether you’re starting out or leveling up, Consensus keeps the bar high and t
 
 ## Ready when you are
 
-### [Start free on consensus.codes →](https://consensus.codes/signup)
+### [Start on consensus.codes →](https://consensus.codes)
 
 <br/>
 
-<img src="../assets/logo.jpg" alt="Consensus" width="56" />
+<img src="../assets/logo.png" alt="Consensus" width="64" />
 
 **CONSENSUS**  
 *Intelligent Learning Platform*
